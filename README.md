@@ -3,6 +3,9 @@
 ## Summary
 *Cemal: ToDo*
 
+## Github Pages
+[text](https://nikiffleser.github.io/Discardees/)
+
 ## Setup
 Create virtual environment:
 ```console
