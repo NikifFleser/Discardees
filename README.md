@@ -35,6 +35,7 @@ pip install -r requirements.txt
 ### Setup LLM Models
 1. Install ollama (https://ollama.com/download)
 2. Open a command prompt
-3. Type ```
+3. Type 
+```
 ollama pull smollm2:1.7b
 ```
