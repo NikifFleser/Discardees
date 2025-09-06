@@ -1,3 +1,7 @@
+# Non-standard
+res/model/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
