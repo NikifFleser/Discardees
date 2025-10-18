@@ -37,5 +37,5 @@ pip install -r requirements.txt
 2. Open a command prompt
 3. Type 
 ```
-ollama pull smollm2:1.7b
+ollama pull llama3.1:8b
 ```
